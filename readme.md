@@ -1,3 +1,4 @@
 Thinkful capstone project
 
-caesar.js is a encoder and decoder for a caesar shift
+caesar.js is an encoder and decoder for a caesar shift
+polybius.js is an encoder and decoder for a polybius square
