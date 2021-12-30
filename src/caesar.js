@@ -28,7 +28,7 @@ const caesarModule = (function () {
           code = characterASCII + shift + 26; // If code+shift is less than lower case alphabet
         } else if(characterASCII + shift > 122){
           code = characterASCII + shift - 26; // If code+shift greater than lower case alphabet
-        } else {
+        } else if(96 > characterASCII < 123){
           code = characterASCII + shift; // If code+shift falls within alphabet ASCII
         }
         const asciiCharacter = String.fromCharCode(code); //Setting each ASCII code to appropriate letter
