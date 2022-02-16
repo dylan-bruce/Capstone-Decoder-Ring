@@ -2,9 +2,7 @@
 
 ## Context
 This project was the JavaScript capstone assignment for the Thinkful bootcamp.
-
 It is meant to test your ability to utilize different JavaScript functions to manipulate data correctly.
-
 Utilizes character's ASCII codes to shift through the alphabet for each encoder. 
 
 ## caesar.js 
