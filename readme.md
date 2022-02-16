@@ -1,4 +1,4 @@
-Thinkful capstone project
+# Thinkful Javascript capstone project
 
 caesar.js is an encoder and decoder for a caesar shift
 
